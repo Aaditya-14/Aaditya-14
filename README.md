@@ -3,23 +3,15 @@
 ## 🌐 My Live Website
 
 <div align="center">
-  
+
 [![Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://www.aadityakhakurel.com.np/)
 
-</div>
+### 👇 Website Preview (Click to Visit)
 
-<div align="center">
-  <a href="https://www.aadityakhakurel.com.np/" target="_blank">
-    <img src="https://api.apiflash.com/v1/urltoimage?access_key=YOUR_API_KEY&url=https://www.aadityakhakurel.com.np/&width=800&height=450" alt="Website Preview" width="800"/>
-  </a>
-</div>
+<a href="https://www.aadityakhakurel.com.np/" target="_blank">
+  <img src="./website-preview.gif" alt="Website Preview" width="100%"/>
+</a>
 
-### 🔴 Live Website Embed
-
-<div align="center">
-  <a href="https://www.aadityakhakurel.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Click_Here_to_Visit-Live_Website-success?style=for-the-badge" alt="Visit Website"/>
-  </a>
 </div>
 
 ## �‍💻c About Me
