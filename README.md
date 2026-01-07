@@ -4,7 +4,14 @@
 
 <br>
 
-                   ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/5cdc535d-ef6a-4e3b-9580-8d27766af463)
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/5cdc535d-ef6a-4e3b-9580-8d27766af463" 
+    alt="Profile Banner"
+    width="400"
+  />
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!;This+is+my+lifecycle!!!;" alt="Title"></img>
